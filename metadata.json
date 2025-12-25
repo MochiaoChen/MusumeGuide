@@ -1,0 +1,7 @@
+{
+  "name": "对外经贸博物馆智能导游",
+  "description": "您的专属AI博物馆导游，提供实时语音讲解与中国传统文化深度解析。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
